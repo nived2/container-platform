@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: container-platform
+  labels:
+    name: container-platform
+    environment: production
